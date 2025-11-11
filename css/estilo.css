@@ -1,0 +1,14 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+table,
+td {
+    border: 2px solid white;
+    border-collapse: collapse;
+
+
+}
+
+td{padding: 9px;}
